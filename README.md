@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hi 👋, I'm Madhyam Bharati<br>A passionate Software Developer from India</h1><br><br>- 🔭 I’m currently working on [Portfolio Website](https://github.com/Madhyam123/Potfolio__.git)<br><br>- 🌱 I’m currently learning MERN STACK AND MACHINE LEARNING<br><br>- 💬 Ask me about -REACT,NEXTJS,GSAP,FRAMER MOTION<br><br>- 📫 How to reach me madhyambharati@gmail.com<br>
+<h1>Hi 👋, I'm <p style={color:"red"}>Madhyam Bharati</p><br>A passionate Software Developer from India</h1><br><br>- 🔭 I’m currently working on [Portfolio Website](https://github.com/Madhyam123/Potfolio__.git)<br><br>- 🌱 I’m currently learning MERN STACK AND MACHINE LEARNING<br><br>- 💬 Ask me about -REACT,NEXTJS,GSAP,FRAMER MOTION<br><br>- 📫 How to reach me madhyambharati@gmail.com<br>
 
 
 ## 🌐 Socials:
