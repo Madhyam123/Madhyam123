@@ -1,9 +1,9 @@
 # 💫 About Me:
-<h1>Hi 👋, I'm <p style={color:"red"}>Madhyam Bharati</p><br>A passionate Software Developer from India</h1><br><br>- 🔭 I’m currently working on [Portfolio Website](https://github.com/Madhyam123/Potfolio__.git)<br><br>- 🌱 I’m currently learning MERN STACK AND MACHINE LEARNING<br><br>- 💬 Ask me about -REACT,NEXTJS,GSAP,FRAMER MOTION<br><br>- 📫 How to reach me madhyambharati@gmail.com<br>
+<h1>Hi 👋, I'm <p style={color:"red"}>Madhyam Bharati</p><br>A passionate Software Developer from India</h1><br><br>- 🔭 I’m currently working on [Portfolio Website](https://final-nextjs-potfolio-website.vercel.app/)<br><br>- 🌱 I’m currently learning MERN STACK AND MACHINE LEARNING<br><br>- 💬 Ask me about -REACT,NEXTJS,GSAP,FRAMER MOTION<br><br>- 📫 How to reach me madhyambharati@gmail.com<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Madhyam Bharati)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]<br/>
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@madhyambharati)<br/>
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Madhyam Bharati)<br/>
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Madhyam) <br/>
